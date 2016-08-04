@@ -1,0 +1,39 @@
+_repo: The-Deserted-Woman_1729
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Marriage, Ellen
+    gutenberg_agent_id: '701'
+    url: http://www.gutenberg.org/2009/agents/701
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - Balzac, H. de (Honoré de)
+    - Balzac, Honore de
+    - Saint-Aubin, Horace de
+    - De Balzac, Honoré
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+description: ''
+gutenberg_issued: '1999-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1729'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into English'
+- !lcsh 'Historical fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: The Deserted Woman
+url: http://www.gutenberg.org/ebooks/1729
